@@ -1,3 +1,4 @@
+package Modelo;
 public class Agente {
     private String objetivo;
     private int velocidad;
